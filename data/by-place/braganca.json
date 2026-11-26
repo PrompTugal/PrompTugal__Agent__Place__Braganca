@@ -580,18 +580,40 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T02:34Z",
+  "read_at": "2026-11-26T11:22Z",
   "by": "place.braganca@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Universidade Notícias de 25 de novembro | Edição Marcos Vilaça",
-   "url": "https://www.universidade.fm/universidade-noticias-de-25-de-novembro-edicao-marcos-vilaca/",
+   "title": "Mário Centeno apresenta «Contas Certas» no Regia Douro Park",
+   "url": "https://www.universidade.fm/mario-centeno-apresenta-contas-certas-no-regia-douro-park/",
    "source": "Universidade FM",
-   "date": "2026-11-25",
-   "read_at": "2026-11-26T02:29:24Z",
+   "date": "2026-11-26",
+   "read_at": "2026-11-26T11:12:33Z",
    "names_place": false
   },
   "items": [
+   {
+    "title": "Mário Centeno apresenta «Contas Certas» no Regia Douro Park",
+    "url": "https://www.universidade.fm/mario-centeno-apresenta-contas-certas-no-regia-douro-park/",
+    "published": "2026-11-26T10:17Z",
+    "source": "Universidade FM",
+    "source_site": "https://www.universidade.fm/",
+    "feed": "https://www.universidade.fm/feed/",
+    "read_at": "2026-11-26T11:12:33Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Escola Profissional do Rodo inaugurou Restaurante Pedagógico",
+    "url": "https://www.universidade.fm/escola-profissional-do-rodo-inaugurou-restaurante-pedagogico/",
+    "published": "2026-11-26T10:05Z",
+    "source": "Universidade FM",
+    "source_site": "https://www.universidade.fm/",
+    "feed": "https://www.universidade.fm/feed/",
+    "read_at": "2026-11-26T11:12:33Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
    {
     "title": "Universidade Notícias de 25 de novembro | Edição Marcos Vilaça",
     "url": "https://www.universidade.fm/universidade-noticias-de-25-de-novembro-edicao-marcos-vilaca/",
@@ -599,7 +621,7 @@
     "source": "Universidade FM",
     "source_site": "https://www.universidade.fm/",
     "feed": "https://www.universidade.fm/feed/",
-    "read_at": "2026-11-26T02:29:24Z",
+    "read_at": "2026-11-26T11:12:33Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -610,7 +632,7 @@
     "source": "Universidade FM",
     "source_site": "https://www.universidade.fm/",
     "feed": "https://www.universidade.fm/feed/",
-    "read_at": "2026-11-26T02:29:24Z",
+    "read_at": "2026-11-26T11:12:33Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -621,7 +643,7 @@
     "source": "Universidade FM",
     "source_site": "https://www.universidade.fm/",
     "feed": "https://www.universidade.fm/feed/",
-    "read_at": "2026-11-26T02:29:24Z",
+    "read_at": "2026-11-26T11:12:33Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -632,29 +654,7 @@
     "source": "Universidade FM",
     "source_site": "https://www.universidade.fm/",
     "feed": "https://www.universidade.fm/feed/",
-    "read_at": "2026-11-26T02:29:24Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Participação da UTAD nos 20 anos da Uni-CV reforça cooperação com África e espaço lusófono",
-    "url": "https://www.universidade.fm/participacao-da-utad-nos-20-anos-da-uni-cv-reforca-cooperacao-com-africa-e-espaco-lusofono/",
-    "published": "2026-11-25T15:26Z",
-    "source": "Universidade FM",
-    "source_site": "https://www.universidade.fm/",
-    "feed": "https://www.universidade.fm/feed/",
-    "read_at": "2026-11-26T02:29:24Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "GNR promove campanha de sensibilização contra violência para com as mulheres",
-    "url": "https://www.universidade.fm/gnr-promove-campanha-de-sensibilizacao-contra-violencia-para-com-as-mulheres/",
-    "published": "2026-11-25T15:21Z",
-    "source": "Universidade FM",
-    "source_site": "https://www.universidade.fm/",
-    "feed": "https://www.universidade.fm/feed/",
-    "read_at": "2026-11-26T02:29:24Z",
+    "read_at": "2026-11-26T11:12:33Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -665,7 +665,7 @@
     "source": "A Voz de Bragança",
     "source_site": "https://avozdebraganca.sapo.pt/",
     "feed": "https://avozdebraganca.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:29:21Z",
+    "read_at": "2026-11-26T11:12:31Z",
     "mentions_place": true,
     "date": null
    },
@@ -676,7 +676,7 @@
     "source": "A Voz de Bragança",
     "source_site": "https://avozdebraganca.sapo.pt/",
     "feed": "https://avozdebraganca.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:29:21Z",
+    "read_at": "2026-11-26T11:12:31Z",
     "mentions_place": false,
     "date": null
    },
@@ -687,7 +687,7 @@
     "source": "A Voz de Bragança",
     "source_site": "https://avozdebraganca.sapo.pt/",
     "feed": "https://avozdebraganca.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:29:21Z",
+    "read_at": "2026-11-26T11:12:31Z",
     "mentions_place": true,
     "date": null
    },
@@ -698,7 +698,7 @@
     "source": "A Voz de Bragança",
     "source_site": "https://avozdebraganca.sapo.pt/",
     "feed": "https://avozdebraganca.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:29:21Z",
+    "read_at": "2026-11-26T11:12:31Z",
     "mentions_place": false,
     "date": null
    },
@@ -709,7 +709,7 @@
     "source": "A Voz de Bragança",
     "source_site": "https://avozdebraganca.sapo.pt/",
     "feed": "https://avozdebraganca.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:29:21Z",
+    "read_at": "2026-11-26T11:12:31Z",
     "mentions_place": true,
     "date": null
    },
@@ -720,7 +720,7 @@
     "source": "A Voz de Bragança",
     "source_site": "https://avozdebraganca.sapo.pt/",
     "feed": "https://avozdebraganca.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:29:21Z",
+    "read_at": "2026-11-26T11:12:31Z",
     "mentions_place": true,
     "date": null
    }
