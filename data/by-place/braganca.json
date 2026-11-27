@@ -5,7 +5,7 @@
  "kind": "city",
  "parent": "portugal",
  "status": "live",
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "by": "place.braganca@PrompTugal.dinis",
  "mandate": "PrompTugal.news Bragança: AI and technology in Bragança, a northeastern district capital whose centre of gravity is its polytechnic and its science park, Brigantia EcoPark, and what reaches Bragança from Portugal, Europe and the world. Independent; every fact sourced.",
  "gravity": {
@@ -580,18 +580,29 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T18:38Z",
+  "read_at": "2026-11-27T07:38Z",
   "by": "place.braganca@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Archie Tattoo Studio assinala terceiro aniversário com exposição dedicada a Vila Real",
-   "url": "https://www.universidade.fm/archie-tattoo-studio-assinala-terceiro-aniversario-com-exposicao-dedicada-a-vila-real/",
+   "title": "Universidade Notícias de 26 de novembro | Edição Marcos Vilaça",
+   "url": "https://www.universidade.fm/universidade-noticias-de-26-de-novembro-edicao-marcos-vilaca/",
    "source": "Universidade FM",
    "date": "2026-11-26",
-   "read_at": "2026-11-26T18:27:57Z",
+   "read_at": "2026-11-27T07:26:26Z",
    "names_place": false
   },
   "items": [
+   {
+    "title": "Universidade Notícias de 26 de novembro | Edição Marcos Vilaça",
+    "url": "https://www.universidade.fm/universidade-noticias-de-26-de-novembro-edicao-marcos-vilaca/",
+    "published": "2026-11-26T18:50Z",
+    "source": "Universidade FM",
+    "source_site": "https://www.universidade.fm/",
+    "feed": "https://www.universidade.fm/feed/",
+    "read_at": "2026-11-27T07:26:26Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
    {
     "title": "Archie Tattoo Studio assinala terceiro aniversário com exposição dedicada a Vila Real",
     "url": "https://www.universidade.fm/archie-tattoo-studio-assinala-terceiro-aniversario-com-exposicao-dedicada-a-vila-real/",
@@ -599,7 +610,7 @@
     "source": "Universidade FM",
     "source_site": "https://www.universidade.fm/",
     "feed": "https://www.universidade.fm/feed/",
-    "read_at": "2026-11-26T18:27:57Z",
+    "read_at": "2026-11-27T07:26:26Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -610,7 +621,7 @@
     "source": "Universidade FM",
     "source_site": "https://www.universidade.fm/",
     "feed": "https://www.universidade.fm/feed/",
-    "read_at": "2026-11-26T18:27:57Z",
+    "read_at": "2026-11-27T07:26:26Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -621,7 +632,7 @@
     "source": "Universidade FM",
     "source_site": "https://www.universidade.fm/",
     "feed": "https://www.universidade.fm/feed/",
-    "read_at": "2026-11-26T18:27:57Z",
+    "read_at": "2026-11-27T07:26:26Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -632,7 +643,7 @@
     "source": "Universidade FM",
     "source_site": "https://www.universidade.fm/",
     "feed": "https://www.universidade.fm/feed/",
-    "read_at": "2026-11-26T18:27:57Z",
+    "read_at": "2026-11-27T07:26:26Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -643,18 +654,7 @@
     "source": "Universidade FM",
     "source_site": "https://www.universidade.fm/",
     "feed": "https://www.universidade.fm/feed/",
-    "read_at": "2026-11-26T18:27:57Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "“Revista de Imprensa” – Carlos Viegas – 26 novembro",
-    "url": "https://www.universidade.fm/revista-de-imprensa-carlos-viegas-26-novembro/",
-    "published": "2026-11-26T12:12Z",
-    "source": "Universidade FM",
-    "source_site": "https://www.universidade.fm/",
-    "feed": "https://www.universidade.fm/feed/",
-    "read_at": "2026-11-26T18:27:57Z",
+    "read_at": "2026-11-27T07:26:26Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -665,7 +665,7 @@
     "source": "A Voz de Bragança",
     "source_site": "https://avozdebraganca.sapo.pt/",
     "feed": "https://avozdebraganca.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:27:54Z",
+    "read_at": "2026-11-27T07:26:23Z",
     "mentions_place": true,
     "date": null
    },
@@ -676,7 +676,7 @@
     "source": "A Voz de Bragança",
     "source_site": "https://avozdebraganca.sapo.pt/",
     "feed": "https://avozdebraganca.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:27:54Z",
+    "read_at": "2026-11-27T07:26:23Z",
     "mentions_place": false,
     "date": null
    },
@@ -687,7 +687,7 @@
     "source": "A Voz de Bragança",
     "source_site": "https://avozdebraganca.sapo.pt/",
     "feed": "https://avozdebraganca.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:27:54Z",
+    "read_at": "2026-11-27T07:26:23Z",
     "mentions_place": true,
     "date": null
    },
@@ -698,7 +698,7 @@
     "source": "A Voz de Bragança",
     "source_site": "https://avozdebraganca.sapo.pt/",
     "feed": "https://avozdebraganca.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:27:54Z",
+    "read_at": "2026-11-27T07:26:23Z",
     "mentions_place": false,
     "date": null
    },
@@ -709,7 +709,7 @@
     "source": "A Voz de Bragança",
     "source_site": "https://avozdebraganca.sapo.pt/",
     "feed": "https://avozdebraganca.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:27:54Z",
+    "read_at": "2026-11-27T07:26:23Z",
     "mentions_place": true,
     "date": null
    },
@@ -720,7 +720,7 @@
     "source": "A Voz de Bragança",
     "source_site": "https://avozdebraganca.sapo.pt/",
     "feed": "https://avozdebraganca.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:27:54Z",
+    "read_at": "2026-11-27T07:26:23Z",
     "mentions_place": false,
     "date": null
    }
